@@ -24,7 +24,7 @@ git clone https://github.com/akshanshdcode/Socket-Chatter.git
 2. Install dependencies:
 
 ```
-cd socket-chatter
+cd Socket-Chatter
 npm install
 ```
 3. Start the server:
